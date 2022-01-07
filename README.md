@@ -1,2 +1,1 @@
-# flaringcubes
-Flaring Cubes
+# Flaring Cubes
